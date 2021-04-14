@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Minimal Notebook_2</string>
+
+    <string name="main_header">"Main Menu"</string>
+    <string name="main_btn_add">"New Note"</string>
+    <string name="main_btn_view">"View Notes"</string>
+
+    <string name="add_data_header">New Note</string>
+    <string name="add_data_field_title">Title:</string>
+    <string name="add_data_field_content">Content:</string>
+    <string name="add_data_button_save">Save</string>
+    <string name="add_data_button_back">Back</string>
+
+    <string name="edit_data_button_delete">Delete</string>
+
+    <string name="delete_dialog_message">"Are you sure you want to delete this note?"</string>
+    <string name="delete_dialog_confirm_yes">"Yes"</string>
+    <string name="delete_dialog_confirm_no">"No"</string>
+
+</resources>
